@@ -1,0 +1,8 @@
+﻿"Tipo","Usuario","Detalle"
+"Cuenta Expirada","Lucia Silva","Vencimiento: 10/23/2026"
+"Cuenta Expirada","Felipe Garcia","Vencimiento: 10/23/2026"
+"Cuenta Expirada","Cecilia Suarez","Vencimiento: 10/23/2026"
+"Mismatch de Area","Gaston","Gaston Suarez (Depto: Finanzas) tiene acceso al grupo GRP-IT-Admin"
+"Mismatch de Area","Felipe","Felipe Fernandez (Depto: RRHH) tiene acceso al grupo GRP-IT-Admin"
+"Privilegio Excesivo","Felipe","Felipe Fernandez - Cargo: Analista - Grupo: GRP-IT-Admin"
+"Privilegio Excesivo","Pedro","Pedro Garcia - Cargo: Soporte Jr - Grupo: GRP-IT-Admin"
