@@ -36,20 +36,28 @@ El script `Auditoria-Accesos.ps1` analiza los 50 usuarios del entorno y detecta 
 ## 📸 Galería de Capturas
 
 ### 1. Estructura del Directorio (Active Directory)
+Aquí se observa el entorno simulado con los 50 usuarios distribuidos en los departamentos de Finanzas, RRHH e IT.
 ![Estructura ADUC](01_estructura_aduc.png)
 
 ### 2. Asignación de Permisos (Member Of)
+Detalle de un usuario y los grupos de seguridad a los que está vinculado.
 ![Propiedades Usuario](02_usuarios_aduc.png)
 
 ### 3. Ejecución del Script de Auditoría
+Consola de PowerShell ejecutando el script que detecta las fallas automáticamente.
 ![Script PowerShell](03_script_auditoria.png)
 
 ### 4. Reporte Visual Generado (HTML)
+Interfaz web con el resumen de la auditoría, mostrando el total de 50 usuarios y los 3 tipos de hallazgos detectados.
 ![Reporte HTML](04_reporte_final.png)
 
-### 5. Exportación de Hallazgos (CSV en LibreOffice)
+### 5. Exportación de Hallazgos (CSV)
+Archivo de datos abierto en LibreOffice Calc, listo para ser trabajado por un analista.
 ![Reporte CSV](05_reporte_csv.png)
 
+### 6. Archivos Generados en el Sistema
+Prueba de la generación exitosa de los archivos (Script, HTML y CSV) en el disco local.
+![Archivos Generados](06_archivos_generados.png)
 ---
 
 ## 📈 Resultados Obtenidos
