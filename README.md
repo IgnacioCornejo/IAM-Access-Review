@@ -54,11 +54,10 @@ Prueba de la generación exitosa de los archivos (Script, HTML y CSV) en el disc
 ### 5. Reporte Visual Generado (HTML)
 Interfaz web con el resumen de la auditoría, mostrando el total de 50 usuarios y los 3 tipos de hallazgos detectados.
 ![Reporte HTML](05_reporte_final.png)
-
 ### 6. Exportación de Hallazgos (CSV)
+
 Archivo de datos abierto en LibreOffice Calc, listo para ser trabajado por un analista.
 ![Reporte CSV](06_reporte_csv.png)
----
 
 ## 📈 Resultados Obtenidos
 
